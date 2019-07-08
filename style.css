@@ -1,9 +1,10 @@
 .body {
     font-style:"Ariel";
-    background-color:black;
+    background-color:lightgray;
 }
 h1 {
     color:red;
+    border:2px solid red;
     text-align:center;
     text-decoration: underline;
 }
